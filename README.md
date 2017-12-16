@@ -10,7 +10,7 @@
 | The Microcode API Database | http://source.click/      | A Repository and collection of open source  |
 | The Live API Website | http://execute.run | The live API is a set of api's that create amazing effects in dev, and live apps running smoothly on all OS's|
 
----
----------------------
+
+-----------------------
 |_Microcode Ltd.© 2017_|
-:---------------------
+:-----------------------
